@@ -1,5 +1,8 @@
 # Projeto de Prática Profissional em ADS
 ## Grupo Projeot da Disciplina 10
+### Projeto Calculadora
+
+Requisitos de instalaçãp:
 Antes de executar o software, verifique os seguintes pré requisitos:
 •	Sistema operacional
 •	Python 3.11instalado.
