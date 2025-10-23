@@ -20,5 +20,6 @@ pip install pyside6
 python.exe -m pip install --upgrade pip
 5.	Instalar as dependências do projeto.
 pip install qdarkstyle
-6. lINK do vídeo youtube.com/watch?si=pMFim_XzlIAdwl8j&v=PmkJw4qe_JI&feature=youtu.be
+6. lINK do vídeo
+7. youtube.com/watch?si=pMFim_XzlIAdwl8j&v=PmkJw4qe_JI&feature=youtu.be 
 
