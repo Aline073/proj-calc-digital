@@ -23,5 +23,7 @@ pip install qdarkstyle
 6. lINK do vídeo
 7. youtube.com/watch?si=pMFim_XzlIAdwl8j&v=PmkJw4qe_JI&feature=youtu.be
 
-8. Para a execução das atualizações da nova versão, utilizar os códigos das classes atualizadas buttons.py e styls.py, anexadas na tag Versão 2 Projeto Calculadora.
+8.Para executar a nova versão do projeto, utilize os arquivos atualizados das classes buttons.py e styls.py, disponíveis na tag "Versão 2 - Projeto Calculadora".
+Salve esses dois arquivos no mesmo diretório das demais classes entregues na primeira etapa e substitua apenas os dois arquivos atualizados, mantendo os demais inalterados.
+
 
