@@ -21,5 +21,7 @@ python.exe -m pip install --upgrade pip
 5.	Instalar as dependências do projeto.
 pip install qdarkstyle
 6. lINK do vídeo
-7. youtube.com/watch?si=pMFim_XzlIAdwl8j&v=PmkJw4qe_JI&feature=youtu.be 
+7. youtube.com/watch?si=pMFim_XzlIAdwl8j&v=PmkJw4qe_JI&feature=youtu.be
+
+8. Para a execução das atualizações da nova versão, utilizar os códigos das classes atualizadas buttons.py e styls.py, anexadas na tag Versão 2 Projeto Claculadora.
 
